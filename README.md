@@ -1,6 +1,7 @@
-# demo001
+# 🚀 Flutter Series 
 
-A new Flutter project.
+Welcome to the Flutter Series! 📱  
+This repository contains the source code and notes for each video in my Flutter tutorial series on YouTube.
 
 ## Getting Started
 
